@@ -17,5 +17,4 @@ User -> Event.BookEvent(eventId) {
     User -> Payment: Payment for Booking
     Payment -> Event: Booking Confirmation
 }
-
 ```
